@@ -1,2 +1,2 @@
 # LearnCanvas
-Something I want to learn
+I begin to study canvas
